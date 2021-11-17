@@ -3,7 +3,8 @@ import java.util.*;
 public class Exercici {
 	public static void main(String[] args) {
 		Scanner kb = new Scanner(System.in);
-        System.out.print("Introdueix 15 numeros negatius: ");                                                         
+        System.out.print("Introdueix 15 numeros negatius: ");
+		System.out.println("Hola, soc en Joan Garcia");                                                         
         int num = kb.nextInt();
         int contador = 0;
         while (contador < 15) {                           
