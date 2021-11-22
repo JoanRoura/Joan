@@ -1,7 +1,10 @@
-var lletras = 'Hola'
-let numeros = '333'
-const be = 'Adeu'
+// console.log(variable)
 
-console.log(lletras) 
-console.log(numeros) 
-console.log(be) 
+// var variable = 'Rhino'
+
+
+console.log(variable)
+
+let variable = 'Rhino'
+
+
