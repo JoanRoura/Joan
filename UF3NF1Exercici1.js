@@ -1,10 +1,7 @@
-// console.log(variable)
+let a = "Hola com anem "
+console.log(a)
 
-// var variable = 'Rhino'
-
-
-console.log(variable)
-
-let variable = 'Rhino'
+let a = true
+console.log(a)
 
 
