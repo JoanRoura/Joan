@@ -1,7 +1,6 @@
-let a = "Hola com anem "
-console.log(a)
+const hola = "Hola com anem?"
+hola = 333
 
-let a = true
-console.log(a)
+console.log(hola)
 
 
