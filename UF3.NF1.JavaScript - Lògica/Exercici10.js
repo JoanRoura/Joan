@@ -1,5 +1,6 @@
 
 function ex10(linies) {
+    bucle:
     for (var i = 0; i <= linies; ++i) {
         let planta = '';
         for (var k = i; k <= linies; ++k) { 
@@ -8,9 +9,8 @@ function ex10(linies) {
             planta = planta + '*';   
         }
         console.log(planta)
+        continue bucle;
     }
 }
 
 ex10(5);
-
-  
