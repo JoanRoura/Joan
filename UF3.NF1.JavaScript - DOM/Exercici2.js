@@ -1,0 +1,1 @@
+document.getElementById("lamevaurl").textContent = document.URL;
